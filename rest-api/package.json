@@ -25,7 +25,7 @@
     "@allbridge/bridge-core-sdk": "*",
     "@allbridge/logger": "^2.4.1",
     "@nestjs/common": "^10.3.3",
-    "@nestjs/core": "^10.3.3",
+    "@nestjs/core": "^11.0.12",
     "@nestjs/platform-express": "^10.3.3",
     "@nestjs/swagger": "^7.3.0",
     "@solana/web3.js": "^1.90.2",
