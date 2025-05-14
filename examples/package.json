@@ -58,7 +58,7 @@
   "dependencies": {
     "@solana/web3.js": "^1.78.5",
     "axios": "^1.6.8",
-    "big.js": "^6.2.1",
+    "big.js": "^7.0.1",
     "src": "^1.1.2",
     "tronweb": "^4.4.0",
     "web3": "^4.11.1",
