@@ -22,14 +22,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@allbridge/bridge-core-sdk": "*",
+    "@allbridge/bridge-core-sdk": "3.20.0",
     "@allbridge/logger": "^2.4.1",
-    "@nestjs/common": "^10.3.3",
+    "@nestjs/common": "^10.4.16",
     "@nestjs/core": "^10.3.3",
-    "@nestjs/platform-express": "^10.3.3",
-    "@nestjs/swagger": "^7.3.0",
-    "@solana/web3.js": "^1.90.2",
-    "@stellar/stellar-base": "12.0.1",
+    "@nestjs/platform-express": "^10.4.20",
+    "@nestjs/swagger": "^7.4.1",
+    "@solana/web3.js": "^1.98.1",
+    "@stellar/stellar-base": "12.0.0",
     "@stellar/stellar-sdk": "12.1.0",
     "@types/big.js": "^6.2.2",
     "big.js": "^6.2.1",
@@ -38,7 +38,7 @@
     "dotenv": "^16.4.5",
     "fast-safe-stringify": "^2.1.1",
     "tsoa": "^6.0.1",
-    "web3-core": "1.9.0"
+    "web3-core": "4.0.1"
   },
   "devDependencies": {
     "@nestjs/cli": "^10.3.2",
