@@ -56,15 +56,15 @@
     "run:liquidity-pool:trx:getLPamountOnDeposit": "ts-node src/usage/liquidity-pool/trx/get-lp-amount-on-deposit.ts"
   },
   "dependencies": {
-    "@solana/web3.js": "^1.78.5",
+    "@solana/web3.js": "^1.98.1",
     "axios": "^1.6.8",
     "big.js": "^6.2.1",
     "src": "^1.1.2",
     "tronweb": "^4.4.0",
-    "web3": "^4.11.1",
-    "web3-core": "^1.9.0",
-    "web3-eth-contract": "^1.9.0",
-    "web3-utils": "^1.9.0",
+    "web3": "^4.0.1",
+    "web3-core": "^4.0.1",
+    "web3-eth-contract": "^4.0.1",
+    "web3-utils": "^1.10.1",
     "@stellar/stellar-sdk": "11.3.0"
   },
   "devDependencies": {
